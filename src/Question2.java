@@ -4,5 +4,7 @@ public class Question2 {
         int[] numbers = new int[10];
 
         System.out.println(numbers.length);
+
+        System.out.println("배열의 크기: "+ numbers.length);
     }
 }

@@ -12,5 +12,10 @@ public class Question1 {
         System.out.println(numbers[2]);
         System.out.println(numbers[3]);
         System.out.println(numbers[4]);
+
+        // 교수님 풀이
+        for (int i = 0; i < numbers.length; i++) {
+            System.out.println(numbers[i]);
+        }
     }
 }
