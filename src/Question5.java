@@ -6,7 +6,7 @@ public class Question5 {
 
         for (int i = 0; i < numbers.length; i++) {
             if (numbers[i] < min) {
-                min = numbers[i];
+                min = numbers[i]; //다른 수와 비교하며 가장 작은 수 찾기(반복문 사용)
             }
         }System.out.println("가장 작은 값은: " + min);
     }

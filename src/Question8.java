@@ -19,5 +19,19 @@ public class Question8 {
                 break;
             }
         }
+        // 교수님 풀이
+//        boolean flag = false;
+//
+//        for (int i = 0; i < numbers.length; i++) {
+//            if (num == numbers[i]) {
+//                flag = true;
+//                break;
+//            }
+//        }
+//        if (flag) {
+//            System.out.println("존재합니다.");
+//        } else {
+//            System.out.println("존재하지 않습니다.");
+//        }
     }
 }
